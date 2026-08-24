@@ -24,6 +24,9 @@
 - PHP 7.4+.
 - Права администратора для доступа к странице модуля.
 
+![Установка](https://denisbunakov.ru/upload/resize_cache/webp/iblock/2ab/2dq9i0sjl7tg4ptyc40ecda0roj93k3l.webp)
+
+
 ## Установка
 
 1. Скопируйте папку в `/bitrix/modules/bnk.propimporter/`.
